@@ -2,6 +2,7 @@
 
 using namespace std;
 
+// Writing Both Increasing And Decreasing Order in Same function Using Recursion
 
 void printIncreaseAndDecrease(int n, int countN){
         if(countN <= 0){
