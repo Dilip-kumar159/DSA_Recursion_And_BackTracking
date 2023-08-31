@@ -36,7 +36,7 @@ void reverseString(string &name, int start, int end){
 
 int main(){
 
-    string a = "25";
+    string a = "22";
     string b = "41";
 
     string ans = "";
