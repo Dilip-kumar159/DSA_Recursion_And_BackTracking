@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include<iostream>
 
 using namespace std;
@@ -23,7 +22,6 @@ int main(){
     subsequences(name, 0, "");
 
     return 0;
-=======
 #include<iostream>
 
 using namespace std;
@@ -48,5 +46,4 @@ int main(){
     subsequences(name, 0, "");
 
     return 0;
->>>>>>> 325cf4b21d9e1ef7ad14a4221039c22cfde4de7e
 }

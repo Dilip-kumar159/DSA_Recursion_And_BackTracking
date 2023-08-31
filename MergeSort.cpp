@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #include<iostream>
 using namespace std;
 
@@ -56,7 +55,6 @@ int main(){
     mergeSort(arr, 0, size-1);
 
     return 0;
-=======
 #include<iostream>
 using namespace std;
 
@@ -65,5 +63,4 @@ int main(){
     cout<<"This is Merge Sort"<<endl;
 
     return 0;
->>>>>>> 325cf4b21d9e1ef7ad14a4221039c22cfde4de7e
 }
