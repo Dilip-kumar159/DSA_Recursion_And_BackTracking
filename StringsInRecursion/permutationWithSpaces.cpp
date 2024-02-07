@@ -10,7 +10,7 @@ void permute(string &str, string output, int ind){
     }
 
     // include spaces
-    permute(str, output + "_" +str[ind], ind+1);
+    permute(str, output + "_" + str[ind], ind+1);
 
     // exclude spaces
     permute(str, output + str[ind], ind+1);
